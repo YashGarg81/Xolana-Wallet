@@ -7,7 +7,7 @@ function Footer() {
             Designed & Developed by <a className="underline font-bold" target="_blank" href="https://x.com/@YashGarg1082222" rel="noreferrer">Yash Garg</a>
             </h3>
             <div className="flex items-center justify-end gap-3">
-                <a href="https://github.com/YashGarg81/xolana"><Github /></a>
+                <a href="https://github.com/YashGarg81/Xolana-wallet"><Github /></a>
                 <a href="https://www.linkedin.com/in/yash-garg-78a448312/"><Linkedin /></a>
                 <><Instagram /></>
                 <a href="https://x.com/@YashGarg1082222"><X /></a>
